@@ -20,17 +20,7 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 
 ### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyahealy.github.io/Regression_2018SalesData/)
 
-> The data (customer_data_2018.csv) come from the 2018 sales of a small wholesale business. The variables in the raw data set include:   
->    
-> Variable       |   Type      |    Meaning
-> ---------------|-------------|------------------------------------------
-> Customer.id    |    integer  |    Unique customer ID
-> State          |    string   |    State customer operates in
-> Last.yr.sales  |    numeric  |    2018 sales amount
-> Prior.yr.sales |    numeric  |    2017 sales amount
-> Life.orders    |    numeric  |    Total amount of sales from customer over the lifetime of the relationship
-> Entry.date     |    date     |    Date the customer made a first purchase
-> Cust.type.id   |    string   |    Descriptive word to describe customer's business type
+> The data (customer_data_2018.csv) come from the 2018 sales of a small wholesale business. 
 >   
 >   
 > The following models are used:        
@@ -120,25 +110,9 @@ matching
 
 > The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
 >     
-> The purpose of this investigation is to find the optimal classification model to predict wine quality.  The variables in the raw data set include:   
->    
-> Variable       |   Type      
-> ---------------|-------------
-> fixed.acidity    |    numeric 
-> volatile.acidity          |    numeric  
-> citric.acid  |    numeric  
-> residual.sugar |    numeric  
-> chlorides    |    numeric  
-> free.sulfur.dioxide     |    numeric     
-> total.sulfer.dioxide   |    numeric   
-> density   |    numeric
-> pH    |    numeric  
-> sulphates    |    numeric  
-> alcohol    |    numeric (%)  
-> winetype   |    string, red or white  
-> quality   |    integer, ordinal rating between 0 and 10  
->    
->     
+> The purpose of this investigation is to find the optimal classification model to predict wine quality.  
+> 
+>
 > The following predictive models are used for a categorical output:        
 >   - **Model 1: Ordered Logistic Regression**: A regression model with an ordinal dependent variable.   
 >   - **Model 2: CART (tree)**: Classification & regression tree that takes a either categorical or continuous response variable. At an inner node, it allows a binary split.    
