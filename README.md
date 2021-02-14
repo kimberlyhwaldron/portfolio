@@ -35,24 +35,8 @@ Cust.type.id   |    string   |    Descriptive word to describe customer's busine
   
   
 The following models are used:        
-**Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) using a straight line.     
-$$
-Y_i \sim \beta_0 + X_i\beta_1 + \epsilon_i
-$$
-
-$$
-\epsilon_i \sim N(0,\sigma^2)
-$$
-**Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables using a straight line.      
-
-$$
-Y_i \sim \beta_0 + X_i\beta_1 + X_i\beta_2 + ... + \epsilon_i
-$$
-
-$$
-\epsilon \sim N(0,\sigma^2)
-$$
-
+  - **Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) using a straight line.    
+  - **Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables using a straight line.      
          
 The following question is answered:     
   - **Which model best predicts company sales?**
