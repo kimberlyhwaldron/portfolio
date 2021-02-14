@@ -62,9 +62,22 @@
 
 ## **(<a href="kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">Project 4 (click Here)</a>)**
 
-## [Data Mining Methods <br> Curriculum Redesign](<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">PDF.</a>)
+## [Data Mining Methods <br> Curriculum Redesign](
+<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" 
+target="_blank">PDF.</a>)
+
+<html>
+<body>
+
+</body>
+<script type="text/javascript">
+    document.location = "robin.github.io/cv/cv.pdf"
+</script>
+</html>
 
 > **Data**: Courses.doc, Enrollment.csv   
 > **Tools Used**: KNIME Analytics, Excel   
 > **Techniques Used**: String distance, clustering, association rules for classification, frequent pattern
 matching   
+
+HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf
