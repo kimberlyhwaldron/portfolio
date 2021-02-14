@@ -13,7 +13,7 @@
 >         
 >          
 > The following question is answered:     
->  - **Which model best predicts company sales?**
+>  - **Which time series model best predicts company sales?**
 
 
 ## [Project 2 (click here)](https://kimberlyahealy.github.io/Regression_2018SalesData/) 
@@ -38,4 +38,4 @@
 >   - **Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables using a straight line.      
 >          
 > The following question is answered:     
->   - **Which model best predicts company sales?**
+>   - **Which regression model best predicts company sales?**
