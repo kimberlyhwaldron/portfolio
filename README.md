@@ -72,11 +72,11 @@ matching
 >
 >
 
->![KNIME workflow1](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/KNIME1/image.jpg?raw=true)
+>![KNIME workflow1](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME1.png?raw=true)
 >
->![KNIME workflow2](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/KNIME2/image.jpg?raw=true)
+>![KNIME workflow2](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME2.png?raw=true)
 >
->![KNIME workflow3](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/KNIME3/image.jpg?raw=true)
+>![KNIME workflow3](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME3.png?raw=true)
 
 
 
