@@ -91,7 +91,7 @@ matching
 
 ## **[Project 5 (click here)](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)**
 
-## [Data Mining Methods <br> Curriculum Redesign](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
+## [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
 
 
 > **Data**: [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)   
