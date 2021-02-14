@@ -1,4 +1,4 @@
-Kimberly Healy Data Portfolio   
+Kimberly Healy Data Portfolio  |  healy.kim@gmx.us     
   
 ## [Project 1 (click here)](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
 
