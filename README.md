@@ -114,9 +114,9 @@ matching
 
 
 
-## **[Project 6 (click here)](https://kimberlyahealy.github.io/Classification_WineQuality/)**
+## **[Project 6 (click here)](https://github.com/kimberlyahealy/Classification_WineQuality)**
 
-## [Classification Models <br> Wine Quality Data](https://kimberlyahealy.github.io/Classification_WineQuality/)
+## [Classification Models <br> Wine Quality Data](https://github.com/kimberlyahealy/Classification_WineQuality)
 
 > The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
 >     
