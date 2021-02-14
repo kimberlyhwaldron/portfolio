@@ -71,7 +71,7 @@ target="_blank">PDF.</a>)
 
 </body>
 <script type="text/javascript">
-    document.location = "robin.github.io/cv/cv.pdf"
+    document.location = "kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf"
 </script>
 </html>
 
