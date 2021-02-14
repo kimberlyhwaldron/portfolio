@@ -14,3 +14,45 @@ The following predictive models are used:
          
 The following question is answered:     
   - **Which model best predicts company sales?**
+
+
+## [Project 2](https://kimberlyahealy.github.io/Regression_2018SalesData/)
+
+### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyahealy.github.io/Regression_2018SalesData/)
+
+## Background
+The data (customer_data_2018.csv) come from the 2018 sales of a small wholesale business. The variables in the raw data set include:   
+   
+Variable       |   Type      |    Meaning
+---------------|-------------|------------------------------------------
+Customer.id    |    integer  |    Unique customer ID
+State          |    string   |    State customer operates in
+Last.yr.sales  |    numeric  |    2018 sales amount
+Prior.yr.sales |    numeric  |    2017 sales amount
+Life.orders    |    numeric  |    Total amount of sales from customer over the lifetime of the relationship
+Entry.date     |    date     |    Date the customer made a first purchase
+Cust.type.id   |    string   |    Descriptive word to describe customer's business type
+  
+  
+The following models are used:        
+**Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) using a straight line.     
+$$
+Y_i \sim \beta_0 + X_i\beta_1 + \epsilon_i
+$$
+
+$$
+\epsilon_i \sim N(0,\sigma^2)
+$$
+**Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables using a straight line.      
+
+$$
+Y_i \sim \beta_0 + X_i\beta_1 + X_i\beta_2 + ... + \epsilon_i
+$$
+
+$$
+\epsilon \sim N(0,\sigma^2)
+$$
+
+         
+The following question is answered:     
+  - **Which model best predicts company sales?**
