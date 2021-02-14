@@ -58,3 +58,13 @@
 >   - **How does the performance of the ads differ by Site, Device, or Creative Name?** (PARTS V-VII)       
 >   - **Are there any trends in KPI performance over time?** (PART VIII)       
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
+
+
+## [Project 4 (click here)](<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">PDF.</a>)
+
+## [Data Mining Methods <br> Curriculum Redesign](<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">PDF.</a>)
+
+> **Data**: Courses.doc, Enrollment.csv
+> **Tools Used**: KNIME Analytics, Excel
+> **Techniques Used**: String distance, clustering, association rules for classification, frequent pattern
+matching
