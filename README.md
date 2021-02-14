@@ -34,8 +34,8 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 >   
 >   
 > The following models are used:        
->   - **Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) using a straight line.    
->   - **Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables using a straight line.      
+>   - **Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) by fitting a linear equation to observed data.       
+>   - **Multiple Linear Regression**: a model that estimates the relationship between one dependent and two or more independent continuous variables by fitting a linear equation to observed data.      
 >          
 > The following question is answered:     
 >   - **Which regression model best predicts company sales?**
