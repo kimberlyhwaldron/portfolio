@@ -94,23 +94,20 @@ matching
 ## [Data Mining Methods <br> Curriculum Redesign](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
 
 
-> **Data**: Global Terrorism Database via Kaggle (tinyurl.com/1oey23g2)
-> **Tools Used**: Tableau, Dashboards
-> **Techniques Used**: Static dashboard to visualize descriptive statistics (charts, tree map, text table); Exploratory dashboard to visualize trends (interactive map and interactive trend line)
+> **Data**: Global Terrorism Database via Kaggle (tinyurl.com/1oey23g2)   
+> **Tools Used**: Tableau, Dashboards   
+> **Techniques Used**: Static dashboard to visualize descriptive statistics (charts, tree map, text table); Exploratory dashboard to visualize trends (interactive map and interactive trend line)   
 >  
 >  
 > **Dashboard example 1: Explanatory Dashboard   
-> Fix misspelling of course names in dataset.**   
 >![TABLEAU dashboard1](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU1.png?raw=true)
 >  
 >  
-> **Workflow example 2: association rule mining  
-> Find elective courses that are associated with the top 3 most frequently taken elective courses.**  
+> **Dashboard example 2: Exploratory Dashboard   
 >![TABLEAU dashboard2](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU2.png?raw=true)
 >  
 >  
-> **Workflow example 3: frequent pattern matching  
-> Group together elective courses frequently taken together using frequent pattern matching.**  
+> **Dashboard example 3: Bonus   
 >![TABLEAU dashboard3](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU3.png?raw=true)
 
 
