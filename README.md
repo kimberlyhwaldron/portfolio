@@ -153,20 +153,20 @@ matching
 
 
 
-## **[Project 7 (click here)](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**
+## **[Project 7 (click here)](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**  
 
-## [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)
+## [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)  
 
-> **Data**: Inputted using SQL
-> **Tools Used**: Oracle SQL
-> **Techniques Used**: Relational database design (define purpose, ERD, tables schemas, keys, normalization, etc.); SQL to create, alter, and populate tables, manipulate data, query/retrieve data; Relational algebra query 
+> **Data**: Inputted using SQL  
+> **Tools Used**: Oracle SQL  
+> **Techniques Used**: Relational database design (define purpose, ERD, tables schemas, keys, normalization, etc.); SQL to create, alter, and populate tables, manipulate data, query/retrieve data; Relational algebra query   
 >
 >
 > **DB/SQL example 1**: ERD  
 >![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL1.png?raw=true)
 >  
 >
-> **DB/SQL example 2**: Tables Schema
+> **DB/SQL example 2**: Tables Schema  
 >![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL2.png?raw=true)
 >  
 > 
@@ -178,5 +178,5 @@ matching
 >![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL4.png?raw=true)
 >  
 > 
-> **DB/SQL example 5**: SQL Query
+> **DB/SQL example 5**: SQL Query  
 >![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL5.png?raw=true)
