@@ -60,7 +60,7 @@
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
 
 
-## [Project 4 (click here)](<a href="kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">PDF.</a>)
+## **(<a href="kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">Project 4 (click Here)</a>)**
 
 ## [Data Mining Methods <br> Curriculum Redesign](<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">PDF.</a>)
 
