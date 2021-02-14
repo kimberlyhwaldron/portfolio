@@ -99,15 +99,15 @@ matching
 > **Techniques Used**: Static dashboard to visualize descriptive statistics (charts, tree map, text table); Exploratory dashboard to visualize trends (interactive map and interactive trend line)   
 >  
 >  
-> **Dashboard example 1: Explanatory Dashboard   
+> **Dashboard example 1**: Explanatory Dashboard   
 >![TABLEAU dashboard1](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU1.png?raw=true)
 >  
 >  
-> **Dashboard example 2: Exploratory Dashboard   
+> **Dashboard example 2**: Exploratory Dashboard   
 >![TABLEAU dashboard2](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU2.png?raw=true)
 >  
 >  
-> **Dashboard example 3: Bonus   
+> **Dashboard example 3**: Bonus   
 >![TABLEAU dashboard3](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU3.png?raw=true)
 
 
