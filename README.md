@@ -94,7 +94,7 @@ matching
 ## [Data Mining Methods <br> Curriculum Redesign](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
 
 
-> **Data**: Global Terrorism Database via Kaggle (tinyurl.com/1oey23g2)   
+> **Data**: [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)   
 > **Tools Used**: Tableau, Dashboards   
 > **Techniques Used**: Static dashboard to visualize descriptive statistics (charts, tree map, text table); Exploratory dashboard to visualize trends (interactive map and interactive trend line)   
 >  
