@@ -1,6 +1,6 @@
-## Project 1
+## [Project 1](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
 
-### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/Online-Retail-Data-Time-Series-Predictive-Modeling/)
+### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
 
 The data ([OnlineRetail.csv](https://archive.ics.uci.edu/ml/datasets/Online+Retail)) come from all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail store. The company sells unique gifts and the majority of customers are wholesalers. This report will use techniques to explore the data and use three different time series algorithms to model sales. The conclusion states which model(s) best predict sales and recommendations for further analysis.     
        
