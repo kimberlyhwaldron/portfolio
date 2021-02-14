@@ -60,9 +60,9 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
 
 
-## **[Project 4 (click here)](https://kimberlyahealy.github.io/)**
+## **[Project 4 (click here)](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)**
 
-## [Data Mining Methods <br> Curriculum Redesign](https://kimberlyahealy.github.io/)
+## [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)
 
 
 > **Data**: Courses.doc, Enrollment.csv   
@@ -73,17 +73,17 @@ matching
 >  
 > **Workflow example 1: string distances & clustering   
 > Fix misspelling of course names in dataset.**   
->![KNIME workflow1](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME1.png?raw=true)
+>![KNIME workflow1](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME1.png?raw=true)
 >  
 >  
 > **Workflow example 2: association rule mining  
 > Find elective courses that are associated with the top 3 most frequently taken elective courses.**  
->![KNIME workflow2](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME2.png?raw=true)
+>![KNIME workflow2](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME2.png?raw=true)
 >  
 >  
 > **Workflow example 3: frequent pattern matching  
 > Group together elective courses frequently taken together using frequent pattern matching.**  
->![KNIME workflow3](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME3.png?raw=true)
+>![KNIME workflow3](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME3.png?raw=true)
 
 
 
@@ -91,7 +91,7 @@ matching
 
 ## **[Project 5 (click here)](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)**
 
-## [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
+## [Tableau Dashboards <br> Global Terrorism Data](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
 
 
 > **Data**: [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)   
