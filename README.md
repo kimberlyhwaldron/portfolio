@@ -69,13 +69,20 @@
 > **Tools Used**: KNIME Analytics, Excel   
 > **Techniques Used**: String distance, clustering, association rules for classification, frequent pattern
 matching   
->
->
-
+>  
+>  
+> Workflow example 1: string distances & clustering   
+> Fix misspelling of course names in dataset.   
 >![KNIME workflow1](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME1.png?raw=true)
->
+>  
+>  
+> Workflow example 2: association rule mining  
+> Find elective courses that are associated with the top 3 most frequently taken elective courses.  
 >![KNIME workflow2](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME2.png?raw=true)
->
+>  
+>  
+> Workflow example 3: frequent pattern matching  
+> Group together elective courses frequently taken together using frequent pattern matching.  
 >![KNIME workflow3](https://github.com/kimberlyahealy/kimberlyahealy.github.io/blob/main/KNIME3.png?raw=true)
 
 
