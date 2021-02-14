@@ -47,14 +47,14 @@
 
 > The data (DigitalMediaCampaign.xlsx) come from a digital campaign that included banners, digital video, and rich media advertisements. This report provides insight into the campaign performance.     
 >       
-> The following KPIs were investigated:    
+> The following KPIs are investigated:    
 >  - **Clicks**: The number of times the ad is clicked     
 >  - **Click-Thru-Rate**: The rate which impressions drive clicks (Clicks / Impressions)   
 >  - **Completion Rate**: The rate which video impressions are viewed (Completes / Impressions)    
 >  - **Engagement Rate**: The rate which rich media is engaged with (Interactions / Impressions)       
 >          
 >          
-> The following questions were answered:     
+> The following questions are answered:     
 >   - **How does the performance of the ads differ by Site, Device, or Creative Name?** (PARTS V-VII)       
 >   - **Are there any trends in KPI performance over time?** (PART VIII)       
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
