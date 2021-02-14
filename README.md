@@ -60,11 +60,9 @@
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
 
 
-## **(<a href="kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" target="_blank">Project 4 (click Here)</a>)**
+## **[Project 4 (download here)](kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf)**
 
-## [Data Mining Methods <br> Curriculum Redesign](
-<a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" 
-target="_blank">PDF.</a>)
+## [Data Mining Methods <br> Curriculum Redesign](kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf)
 
 
 > **Data**: Courses.doc, Enrollment.csv   
@@ -72,4 +70,3 @@ target="_blank">PDF.</a>)
 > **Techniques Used**: String distance, clustering, association rules for classification, frequent pattern
 matching   
 
-HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf
