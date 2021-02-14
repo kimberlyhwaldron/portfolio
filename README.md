@@ -43,7 +43,7 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 
 ## [Project 3 (click here)](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
 
-## [Performance Analysis, Trends & Recommendations <br> Digital Media Ad Campaign Data](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
+### [Performance Analysis, Trends & Recommendations <br> Digital Media Ad Campaign Data](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
 
 > The data (DigitalMediaCampaign.xlsx) come from a digital campaign that included banners, digital video, and rich media advertisements. This report provides insight into the campaign performance.     
 >       
@@ -62,7 +62,7 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 
 ## **[Project 4 (click here)](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)**
 
-## [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)
+### [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)
 
 
 > **Data**: Courses.doc, Enrollment.csv   
@@ -91,7 +91,7 @@ matching
 
 ## **[Project 5 (click here)](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)**
 
-## [Tableau Dashboards <br> Global Terrorism Data](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
+### [Tableau Dashboards <br> Global Terrorism Data](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
 
 
 > **Data**: [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)   
@@ -116,7 +116,7 @@ matching
 
 ## **[Project 6 (click here)](https://kimberlyahealy.github.io/Classification_WineQuality/)**
 
-## [Classification Models <br> Wine Quality Data](https://kimberlyahealy.github.io/Classification_WineQuality/)
+### [Classification Models <br> Wine Quality Data](https://kimberlyahealy.github.io/Classification_WineQuality/)
 
 > The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
 >     
@@ -155,7 +155,7 @@ matching
 
 ## **[Project 7 (click here)](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**  
 
-## [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)  
+### [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)  
 
 > **Data**: Inputted using SQL  
 > **Tools Used**: Oracle SQL  
