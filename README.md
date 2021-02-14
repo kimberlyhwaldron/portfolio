@@ -15,7 +15,7 @@ Kimberly Healy Data Portfolio  |  healy.kim@gmx.us
 > The following question is answered:     
 >  - **Which time series model best predicts company sales?**
 
-
+***
 ## [Project 2 (click here)](https://kimberlyahealy.github.io/Regression_2018SalesData/) 
 
 ### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyahealy.github.io/Regression_2018SalesData/)
