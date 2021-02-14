@@ -10,7 +10,7 @@
 >  - **Model 1: Simple Moving Average**: a weighted average function that identifies the previous pattern in the data and uses that pattern to predict future data points.      
 >  - **Model 2: Exponential Smoothing**: similar to Simple Moving Average, but contains a smoothing constant which can be tweaked for more responsive or more stable models.      
 >  - **Model 3: Autoregressive Integrated Moving Average (ARIMA)**: unlilke the previous models, ARIMA considers the correlations among the previous values of the time series to predict future values.    
-        
+>         
 >          
 > The following question is answered:     
 >  - **Which model best predicts company sales?**
@@ -31,7 +31,7 @@
 > Life.orders    |    numeric  |    Total amount of sales from customer over the lifetime of the relationship
 > Entry.date     |    date     |    Date the customer made a first purchase
 > Cust.type.id   |    string   |    Descriptive word to describe customer's business type
-  
+>   
 >   
 > The following models are used:        
 >   - **Simple Linear Regression**: a model that estimates the relationship between two continuous variables (one dependent and one independent) using a straight line.    
