@@ -1,6 +1,6 @@
 
 
-## [Project 1](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
+## [Project 1](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/) [(click here)](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
 
 ### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
 
@@ -16,7 +16,7 @@ The following question is answered:
   - **Which model best predicts company sales?**
 
 
-## [Project 2](https://kimberlyahealy.github.io/Regression_2018SalesData/)
+## [Project 2](https://kimberlyahealy.github.io/Regression_2018SalesData/) [(click here)](https://kimberlyahealy.github.io/Regression_2018SalesData/)
 
 ### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyahealy.github.io/Regression_2018SalesData/)
 
