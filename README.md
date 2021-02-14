@@ -1,8 +1,8 @@
 
 
-## [Project 1 (click here)](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
+## [Project 1 (click here)](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
 
-### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/Time_Series_Online_Retail_Data/)
+### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
 
 > The data ([OnlineRetail.csv](https://archive.ics.uci.edu/ml/datasets/Online+Retail)) come from all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail store. The company sells unique gifts and the majority of customers are wholesalers. This report will use techniques to explore the data and use three different time series algorithms to model sales. The conclusion states which model(s) best predict sales and recommendations for further analysis.     
 >        
@@ -39,3 +39,22 @@
 >          
 > The following question is answered:     
 >   - **Which regression model best predicts company sales?**
+
+
+## [Project 3 (click here)](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
+
+## [Performance Analysis, Trends & Recommendations <br> Digital Media Ad Campaign Data](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
+
+The data (DigitalMediaCampaign.xlsx) come from a digital campaign that included banners, digital video, and rich media advertisements. This report provides insight into the campaign performance.     
+      
+The following KPIs were investigated:    
+ - **Clicks**: The number of times the ad is clicked     
+ - **Click-Thru-Rate**: The rate which impressions drive clicks (Clicks / Impressions)   
+ - **Completion Rate**: The rate which video impressions are viewed (Completes / Impressions)    
+ - **Engagement Rate**: The rate which rich media is engaged with (Interactions / Impressions)       
+         
+         
+The following questions were answered:     
+  - **How does the performance of the ads differ by Site, Device, or Creative Name?** (PARTS V-VII)       
+  - **Are there any trends in KPI performance over time?** (PART VIII)       
+  - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
