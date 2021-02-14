@@ -66,14 +66,6 @@
 <a href="kimberlyahealy.github.io/folder/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf" 
 target="_blank">PDF.</a>)
 
-<html>
-<body>
-
-</body>
-<script type="text/javascript">
-    document.location = "kimberlyahealy.github.io/HealyKimberly_DataMiningCurriculumRedesign_KNIME.pdf"
-</script>
-</html>
 
 > **Data**: Courses.doc, Enrollment.csv   
 > **Tools Used**: KNIME Analytics, Excel   
