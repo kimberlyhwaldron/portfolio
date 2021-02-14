@@ -114,11 +114,10 @@ matching
 
 
 
-## **[Project 6 (click here)](ttps://kimberlyahealy.github.io/Classification_WineQuality/)**
+## **[Project 6 (click here)](https://kimberlyahealy.github.io/Classification_WineQuality/)**
 
-## [Classification Models <br> Wine Quality Data](ttps://kimberlyahealy.github.io/Classification_WineQuality/)
+## [Classification Models <br> Wine Quality Data](https://kimberlyahealy.github.io/Classification_WineQuality/)
 
-## Background
 > The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
 >     
 > The purpose of this investigation is to find the optimal classification model to predict wine quality.  The variables in the raw data set include:   
@@ -150,3 +149,34 @@ matching
 > The following questions are answered:     
 >   - **Which attributes best predict wine quality?**   
 >   - **Which model(s) best predicts wine quality?**  
+
+
+
+
+## **[Project 7 (click here)](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**
+
+## [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)
+
+> **Data**: Inputted using SQL
+> **Tools Used**: Oracle SQL
+> **Techniques Used**: Relational database design (define purpose, ERD, tables schemas, keys, normalization, etc.); SQL to create, alter, and populate tables, manipulate data, query/retrieve data; Relational algebra query 
+>
+>
+> **DB/SQL example 1**: ERD  
+>![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL1.png?raw=true)
+>  
+>
+> **DB/SQL example 2**: Tables Schema
+>![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL2.png?raw=true)
+>  
+> 
+> **DB/SQL example 3**: SQL Query  
+>![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL3.png?raw=true)
+> 
+> 
+> **DB/SQL example 4**: SQL Query   
+>![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL4.png?raw=true)
+>  
+> 
+> **DB/SQL example 5**: SQL Query
+>![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL5.png?raw=true)
