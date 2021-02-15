@@ -115,9 +115,9 @@ matching
 >
 > The following predictive models are used for a categorical output:        
 >   - **Model 1: Ordered Logistic Regression**: A regression model with an ordinal dependent variable.   
->   - **Model 2: CART (tree)**: Classification & regression tree that takes a either categorical or continuous response variable. At an inner node, it allows a binary split.    
->   - **Model 3: C5.0 (tree)**: Classification tree that takes only a categorical response variable. At an inner node, it allows a multiple split. Each node is split using the best split by the Gini Index among all input variables.   
->   - **Model 4: Random Forest (tree)**: Combines multiple models (i.e. hundreds of decision trees) into a single ensemble. Each decision tree is independent from another tree. Each node is split using the best split among a random subset of all input predictor variables chosen at the node.   
+>   - **Model 2: CART**: Classification & regression tree that takes a either categorical or continuous response variable. At an inner node, it allows a binary split.    
+>   - **Model 3: C5.0**: Classification tree that takes only a categorical response variable. At an inner node, it allows a multiple split. Each node is split using the best split by the Gini Index among all input variables.   
+>   - **Model 4: Random Forest**: Combines multiple models (i.e. hundreds of decision trees) into a single ensemble. Each decision tree is independent from another tree. Each node is split using the best split among a random subset of all input predictor variables chosen at the node.   
 > 
 >                  
 > The following questions are answered:     
