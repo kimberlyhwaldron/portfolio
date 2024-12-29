@@ -2,7 +2,7 @@ Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com
   
 ## [Project 1 (click here)](https://kimberlyhwaldron.github.io/TimeSeries_OnlineRetailData/)
 
-### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
+### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyhwaldron.github.io/TimeSeries_OnlineRetailData/)
 
 > The data ([OnlineRetail.csv](https://archive.ics.uci.edu/ml/datasets/Online+Retail)) come from all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail store. The company sells unique gifts and the majority of customers are wholesalers. This report will use techniques to explore the data and use three different time series algorithms to model sales. The conclusion states which model(s) best predict sales and recommendations for further analysis.     
 >        
@@ -16,9 +16,9 @@ Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com
 >  - **Which time series model best predicts company sales?**
 
 ***
-## [Project 2 (click here)](https://kimberlyahealy.github.io/Regression_2018SalesData/) 
+## [Project 2 (click here)](https://kimberlyhwaldron.github.io/Regression_2018SalesData/) 
 
-### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyahealy.github.io/Regression_2018SalesData/)
+### [Linear Regression Predictive Modeling <br> 2018 Customer Data](https://kimberlyhwaldron.github.io/Regression_2018SalesData/)
 
 > The data (customer_data_2018.csv) come from the 2018 sales of a small wholesale business. 
 >   
@@ -31,9 +31,9 @@ Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com
 >   - **Which regression model best predicts company sales?**
 
 
-## [Project 3 (click here)](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
+## [Project 3 (click here)](https://kimberlyhwaldron.github.io/Trends_DigitalMediaAdCampaign/)
 
-### [Performance Analysis, Trends & Recommendations <br> Digital Media Ad Campaign Data](https://kimberlyahealy.github.io/Trends_DigitalMediaAdCampaign/)
+### [Performance Analysis, Trends & Recommendations <br> Digital Media Ad Campaign Data](https://kimberlyhwaldron.github.io/Trends_DigitalMediaAdCampaign/)
 
 > The data (DigitalMediaCampaign.xlsx) come from a digital campaign that included banners, digital video, and rich media advertisements. This report provides insight into the campaign performance.     
 >       
@@ -50,9 +50,9 @@ Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com
 >   - **What recommendations would you make? What other KPIs would you consider?** (PART IX)     
 
 
-## **[Project 4 (click here)](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)**
+## **[Project 4 (click here)](https://kimberlyhwaldron.github.io/DataMiningKNIME_CurriculumRedesign/)**
 
-### [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)
+### [Data Mining Methods <br> For Curriculum Redesign](https://kimberlyhwaldron.github.io/DataMiningKNIME_CurriculumRedesign/)
 
 
 > **Data**: Courses.doc, Enrollment.csv   
@@ -63,25 +63,25 @@ matching
 >  
 > **Workflow example 1: string distances & clustering   
 > Fix misspelling of course names in dataset.**   
->![KNIME workflow1](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME1.png?raw=true)
+>![KNIME workflow1](https://github.com/kimberlyhwaldron/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME1.png?raw=true)
 >  
 >  
 > **Workflow example 2: association rule mining  
 > Find elective courses that are associated with the top 3 most frequently taken elective courses.**  
->![KNIME workflow2](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME2.png?raw=true)
+>![KNIME workflow2](https://github.com/kimberlyhwaldron/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME2.png?raw=true)
 >  
 >  
 > **Workflow example 3: frequent pattern matching  
 > Group together elective courses frequently taken together using frequent pattern matching.**  
->![KNIME workflow3](https://github.com/kimberlyahealy/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME3.png?raw=true)
+>![KNIME workflow3](https://github.com/kimberlyhwaldron/DataMiningKNIME_CurriculumRedesign/blob/main/KNIME3.png?raw=true)
 
 
 
 
 
-## **[Project 5 (click here)](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)**
+## **[Project 5 (click here)](https://kimberlyhwaldron.github.io/TableauDashboard_GlobalTerrorData/)**
 
-### [Tableau Dashboards <br> Global Terrorism Data](https://kimberlyahealy.github.io/TableauDashboard_GlobalTerrorData/)
+### [Tableau Dashboards <br> Global Terrorism Data](https://kimberlyhwaldron.github.io/TableauDashboard_GlobalTerrorData/)
 
 
 > **Data**: [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)   
@@ -90,23 +90,23 @@ matching
 >  
 >  
 > **Dashboard example 1**: Explanatory Dashboard   
->![TABLEAU dashboard1](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU1.png?raw=true)
+>![TABLEAU dashboard1](https://github.com/kimberlyhwaldron/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU1.png?raw=true)
 >  
 >  
 > **Dashboard example 2**: Exploratory Dashboard   
->![TABLEAU dashboard2](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU2.png?raw=true)
+>![TABLEAU dashboard2](https://github.com/kimberlyhwaldron/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU2.png?raw=true)
 >  
 >  
 > **Dashboard example 3**: Bonus   
-> ![TABLEAU dashboard3](https://github.com/kimberlyahealy/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU3.png?raw=true)
+> ![TABLEAU dashboard3](https://github.com/kimberlyhwaldron/TableauDashboard_GlobalTerrorData/blob/main/TABLEAU3.png?raw=true)
 
 
 
 
 
-## **[Project 6 (click here)](https://kimberlyahealy.github.io/Classification_WineQuality/)**
+## **[Project 6 (click here)](https://kimberlyhwaldron.github.io/Classification_WineQuality/)**
 
-### [Classification Models <br> Wine Quality Data](https://kimberlyahealy.github.io/Classification_WineQuality/)
+### [Classification Models <br> Wine Quality Data](https://kimberlyhwaldron.github.io/Classification_WineQuality/)
 
 > The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
 >     
@@ -127,9 +127,9 @@ matching
 
 
 
-## **[Project 7 (click here)](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)**  
+## **[Project 7 (click here)](https://kimberlyhwaldron.github.io/RelationalDatabase_SQL/)**  
 
-### [Relational DB Specification <br> & SQL Queries](https://kimberlyahealy.github.io/RelationalDatabase_SQL/)  
+### [Relational DB Specification <br> & SQL Queries](https://kimberlyhwaldron.github.io/RelationalDatabase_SQL/)  
 
 > **Data**: Inputted using SQL  
 > **Tools Used**: Oracle SQL  
@@ -137,23 +137,23 @@ matching
 >
 >
 > **DB/SQL example 1**: ERD  
->![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL1.png?raw=true)
+>![SQL1](https://github.com/kimberlyhwaldron/RelationalDatabase_SQL/blob/main/SQL1.png?raw=true)
 >  
 >
 > **DB/SQL example 2**: Tables Schema  
->![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL2.png?raw=true)
+>![SQL1](https://github.com/kimberlyhwaldron/RelationalDatabase_SQL/blob/main/SQL2.png?raw=true)
 >  
 > 
 > **DB/SQL example 3**: SQL Query  
->![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL3.png?raw=true)
+>![SQL1](https://github.com/kimberlyhwaldron/RelationalDatabase_SQL/blob/main/SQL3.png?raw=true)
 > 
 > 
 > **DB/SQL example 4**: SQL Query   
->![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL4.png?raw=true)
+>![SQL1](https://github.com/kimberlyhwaldron/RelationalDatabase_SQL/blob/main/SQL4.png?raw=true)
 >  
 > 
 > **DB/SQL example 5**: SQL Query  
->![SQL1](https://github.com/kimberlyahealy/RelationalDatabase_SQL/blob/main/SQL5.png?raw=true)
+>![SQL1](https://github.com/kimberlyhwaldron/RelationalDatabase_SQL/blob/main/SQL5.png?raw=true)
 
 
 
