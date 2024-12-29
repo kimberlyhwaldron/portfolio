@@ -1,6 +1,6 @@
-Kimberly Healy Data Portfolio  |  healy.kim@gmx.us     
+Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com     
   
-## [Project 1 (click here)](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
+## [Project 1 (click here)](https://kimberlyhwaldron.github.io/TimeSeries_OnlineRetailData/)
 
 ### [Time Series Predictive Modeling <br> Online Retail Data](https://kimberlyahealy.github.io/TimeSeries_OnlineRetailData/)
 
