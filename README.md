@@ -1,5 +1,3 @@
-Weaselton
-
 Kimberly Waldron Data Portfolio  |  kimberly.h.waldron@gmail.com     
   
 ## [Project 1 (click here)](https://kimberlyhwaldron.github.io/TimeSeries_OnlineRetailData/)
